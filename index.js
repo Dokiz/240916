@@ -6,3 +6,5 @@ var treugol={
 	}
 };
 console.log(treugol.ac());
+var gupotenuza=(function(a,b){return (a*a)+(b*b)}(3,4));
+console.log(gupotenuza);
